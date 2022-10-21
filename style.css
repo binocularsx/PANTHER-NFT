@@ -359,7 +359,7 @@ img {
     }
 }
 
-@media screen and (min-width:2150px) {
+@media screen and (min-width: 2150px) {
     .panther_bg {
         width: 100%;
         margin-left: 250px;
