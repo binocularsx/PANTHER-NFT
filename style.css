@@ -257,7 +257,7 @@ img {
     transform: translateY(0);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .menu-container {
         display: none;
         overflow: hidden;
@@ -293,6 +293,11 @@ img {
     .pop-out {
         margin-left: auto;
     }
+    /* .panther_bg {
+        background-position: center;
+        margin-left: 200px;
+        margin-right: auto;
+    } */
 }
 
 @media screen and (max-width: 895px) {
